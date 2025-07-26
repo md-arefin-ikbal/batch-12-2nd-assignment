@@ -10,3 +10,26 @@
     color: #000000;
     opacity: 0.5;
 }
+
+.plants-title h1 {
+    font-family: "Noto Serif", serif;
+}
+.plants-sub-title p {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #000000;
+    opacity: 0.5;
+
+}
+.card h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #111111;
+
+}
+.card h2 {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #111111;
+
+}
