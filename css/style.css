@@ -1,0 +1,12 @@
+.banner-text h1 {
+    font-family: "Noto Serif", serif;
+    font-weight: 600;
+    font-size: 65px;
+}
+
+.banner-text p {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #000000;
+    opacity: 0.5;
+}
