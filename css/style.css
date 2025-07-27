@@ -33,3 +33,15 @@
     color: #111111;
 
 }
+.plants-lover-text h1 {
+    font-family: "Noto Serif", serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+.plants-lover-text li {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #000000;
+    opacity: 0.5;
+
+}
