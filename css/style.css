@@ -45,3 +45,16 @@
     opacity: 0.5;
 
 }
+.container-2 h1{
+    font-family: "Noto Serif", serif;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+.container-2 p {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    color: #000000;
+    opacity: 0.5;
+
+}
